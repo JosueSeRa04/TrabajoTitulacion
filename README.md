@@ -1,12 +1,5 @@
 # Aplicación de algoritmos bioinspirados para la optimización dinámica en la gestión de emergencias del Metro de la Ciudad de México 
 
-## Desarrolladores
-
--Escamilla Reséndiz Aldo.
--Serrano Ramos Josue.
--Vazquez Perez Ana Evelyn.
-
-
 ## Descripción
 
 Este repositorio contiene el desarrollo del trabajo terminal titulado **"Aplicación de algoritmos bioinspirados para la optimización dinámica en la gestión de emergencias del Metro de la Ciudad de México"**, cuyo objetivo es diseñar un prototipo web para asistir en la toma de decisiones ante accidentes e incidentes dentro del Sistema de Transporte Colectivo (STC). La herramienta aplica algoritmos genéticos en un entorno altamente dinámico para sugerir asignaciones óptimas de personal y rutas de atención.
