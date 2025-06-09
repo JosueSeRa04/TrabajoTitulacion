@@ -2,9 +2,9 @@
 
 ## Desarrolladores
 
--Escamilla Reséndiz Aldo
--Serrano Ramos Josue
--Vazquez Perez Ana Evelyn
+-Escamilla Reséndiz Aldo.
+-Serrano Ramos Josue.
+-Vazquez Perez Ana Evelyn.
 
 
 ## Descripción
@@ -26,8 +26,8 @@ Desarrollar un prototipo web basado en procesos bioinspirados para optimizar la 
 
 ## Tecnologías empleadas
 
-- Python (cálculo y procesamiento)
-- JavaScript (interfaz web y visualización)
-- HTML/CSS (maquetado)
-- Algoritmos bioinspirados (genéticos y variantes adaptativas)
+- Python 
+- JavaScript 
+- HTML/CSS 
+- Algoritmos bioinspirados 
 
